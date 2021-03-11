@@ -6,3 +6,5 @@ Este es un repositorio de prueba
 2. Crear una rama personal 
 
 git checkout -b nombre_usuario
+
+3. Borré archivo HTML y ahora se modifica README.md
